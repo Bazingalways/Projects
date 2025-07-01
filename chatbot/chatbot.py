@@ -69,7 +69,7 @@ while True:
         if result:
             faq, faq_answer, faq_url, faq_suggestions =result
             print("Closest FAQ retrived:")
-            print(f"FAQ: {faq}\nURL: {faq_url}\nAnswer: {faq_answer}\nSuggested Insights: {faq_suggestions}")
+            print(f"FAQ: {faq}\n\nURL: {faq_url}\n\nAnswer: {faq_answer}\n\nSuggested Insights: {faq_suggestions}")
         else:
             print('No Similar FAQ returned')
 
