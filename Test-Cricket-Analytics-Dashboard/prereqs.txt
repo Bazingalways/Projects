@@ -1,0 +1,4 @@
+pnpm i @google/generative-ai
+pnpm i recharts
+pnpm i lucide-react
+pnpm i next-themes
